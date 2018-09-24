@@ -1,4 +1,4 @@
 # pdfjs-dist
 pdfjs distribution
 
-use gulp generate in pdfjs project to generate build
+use gulp minified in pdfjs project to generate build
