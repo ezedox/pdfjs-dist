@@ -1,5 +1,5 @@
 {
-  "name": "ezeodx-pdfjs-dist",
+  "name": "ezedox-pdfjs-dist",
   "version": "2.0.886",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
